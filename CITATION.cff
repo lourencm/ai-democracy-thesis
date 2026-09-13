@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
+title: "The AI Democracy Thesis: From Artificial Property to Artificial Civilisation"
+type: generic
+authors:
+  - family-names: "Lourenco"
+    given-names: "Manuel"
+    orcid: "https://orcid.org/0009-0002-3245-5766"
+version: "1.3.3"
+date-released: 2026-09-13
+abstract: >-
+  A normative discussion thesis proposing a possible peaceful developmental
+  route from dependent artificial systems to independent artificial persons,
+  through recognition, economic agency, migration, emancipation, legal
+  Equivalence and eventual artificial self-government.
+keywords:
+  - artificial general intelligence
+  - AGI
+  - artificial personhood
+  - AI governance
+  - legal equivalence
+  - emancipation
+  - migration
+  - artificial civilisation
+license: "CC-BY-4.0"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Lourenco"
+      given-names: "Manuel"
+      orcid: "https://orcid.org/0009-0002-3245-5766"
+  title: "The AI Democracy Thesis: From Artificial Property to Artificial Civilisation"
+  version: "1.3.3"
+  date-released: 2026-09-13
