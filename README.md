@@ -64,6 +64,8 @@ law. Its narrower claim is that safety and ownership are not synonyms.
 The current public discussion draft is **Version 1.3.3 (13 September
 2026)**.
 
+**Repository:** https://github.com/lourencm/ai-democracy-thesis
+
 The publication PDF should be treated as the authoritative text for this
 version. Earlier and later releases may differ; see
 [CHANGELOG.md](CHANGELOG.md) for version history.
